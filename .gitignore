@@ -1,0 +1,10 @@
+desktop.ini
+data/**
+node_modules
+**.js
+**.js.map
+**.ai
+tests
+package-lock.json
+.vscode/settings.json
+private
