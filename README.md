@@ -4,6 +4,7 @@
   <img src="https://github.com/vicenterendo/PierChat/assets/76400414/3f302c08-98c5-4f17-aeaa-fb2d33cd2c4e" />
 </p>
 
+---
 <!-- <p align="center">
   <img src="https://github.com/vicenterendo/PierChat/blob/main/assets/banner-med.png?raw=true" />
 </p> -->
@@ -26,4 +27,10 @@ Although the clients communicate via P2P, PierChat uses a code-based system for 
 As this is open-source and I do not have resources to host official servers, I will leave it up to the community to host their own servers in a community/private server system.
 You can find the code for the server, as well as it's releases, in [this](https://github.com/vicenterendo/PierChat-Server/) repository.
 
+---
 
+### Still in `alpha`
+PierChat is still in the aplha stage of development, meaning it works, but with lots of bugs and missing functionality. Here are some of the features planned for the future:
+[ ] Full Exception Handling
+[ ] Graphical UI
+[ ] User relationships ( friends, groups, ... )
