@@ -1,7 +1,7 @@
 # PierChat
 
 <p align="center">
-  <img src="https://github.com/vicenterendo/PierChat-Client/assets/76400414/d131c881-adc7-4a25-b9ec-1c3995af5593" />
+  <img src="https://github.com/vicenterendo/PierChat/blob/main/assets/banner-med.png?raw=true" />
 </p>
 
 ### What is `PierChat`?
