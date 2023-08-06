@@ -1,15 +1,20 @@
 # PierChat
 
 <p align="center">
-  <img src="https://github.com/vicenterendo/PierChat/blob/main/assets/banner-med.png?raw=true" />
+  <img src="https://github.com/vicenterendo/PierChat/assets/76400414/3f302c08-98c5-4f17-aeaa-fb2d33cd2c4e" />
 </p>
 
-### What is `PierChat`?
+<!-- <p align="center">
+  <img src="https://github.com/vicenterendo/PierChat/blob/main/assets/banner-med.png?raw=true" />
+</p> -->
 
+### What is `PierChat`?
 `PierChat` is a data transfering app that allows clients to securely and quickly chat and transfer data without a relay server.
  
 The objective of this project is to allow users to transfer files and other information quicker than server-based solutions by making P2P accessible to less tech-savy people. 
 PierChat is faster than WeTransfer or any other cloud-based service due to the file not having to be uploaded ( buffered ) to the server and only downloaded to the receiving end once the full file has finished uploading. Instead, the data is directly sent to the other pier, making only one transfer necessary.
+
+---
 
 ### How does it work?
 #### [`Pier-to-Pier`](https://en.wikipedia.org/wiki/Peer-to-peer)
