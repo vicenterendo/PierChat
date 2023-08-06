@@ -1,15 +1,21 @@
 # PierChat
 
 <p align="center">
-  <img src="https://github.com/vicenterendo/PierChat-Client/assets/76400414/d131c881-adc7-4a25-b9ec-1c3995af5593" />
+  <img src="https://github.com/vicenterendo/PierChat/assets/76400414/3f302c08-98c5-4f17-aeaa-fb2d33cd2c4e" />
 </p>
 
-### What is `PierChat`?
+---
+<!-- <p align="center">
+  <img src="https://github.com/vicenterendo/PierChat/blob/main/assets/banner-med.png?raw=true" />
+</p> -->
 
+### What is `PierChat`?
 `PierChat` is a data transfering app that allows clients to securely and quickly chat and transfer data without a relay server.
  
 The objective of this project is to allow users to transfer files and other information quicker than server-based solutions by making P2P accessible to less tech-savy people. 
 PierChat is faster than WeTransfer or any other cloud-based service due to the file not having to be uploaded ( buffered ) to the server and only downloaded to the receiving end once the full file has finished uploading. Instead, the data is directly sent to the other pier, making only one transfer necessary.
+
+---
 
 ### How does it work?
 #### [`Pier-to-Pier`](https://en.wikipedia.org/wiki/Peer-to-peer)
@@ -21,4 +27,11 @@ Although the clients communicate via P2P, PierChat uses a code-based system for 
 As this is open-source and I do not have resources to host official servers, I will leave it up to the community to host their own servers in a community/private server system.
 You can find the code for the server, as well as it's releases, in [this](https://github.com/vicenterendo/PierChat-Server/) repository.
 
+---
 
+### Still in `alpha`
+PierChat is still in the aplha stage of development, meaning it works, but with lots of bugs and missing functionality. Here are some of the features planned for the future:
+
+- [ ] Full Exception Handling
+- [ ] Graphical UI
+- [ ] User relationships ( friends, groups, ... )
