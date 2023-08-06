@@ -31,6 +31,7 @@ You can find the code for the server, as well as it's releases, in [this](https:
 
 ### Still in `alpha`
 PierChat is still in the aplha stage of development, meaning it works, but with lots of bugs and missing functionality. Here are some of the features planned for the future:
-[ ] Full Exception Handling
-[ ] Graphical UI
-[ ] User relationships ( friends, groups, ... )
+
+- [ ] Full Exception Handling
+- [ ] Graphical UI
+- [ ] User relationships ( friends, groups, ... )
